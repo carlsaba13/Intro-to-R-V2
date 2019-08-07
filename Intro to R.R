@@ -1,4 +1,5 @@
 # R script to accopany Intro to R
+# Written by Troy Adair
 # Copy for RStudent 2019
 ######################################################
 
